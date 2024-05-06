@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\Petfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100A1D14-0A31-4509-B4EE-B4DC9F58BFD3}|Petfolio.API\\Petfolio.API.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\petfolio\\petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100A1D14-0A31-4509-B4EE-B4DC9F58BFD3}|Petfolio.API\\Petfolio.API.csproj|solutionrelative:petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52F0A03-432C-4A71-BE15-70EB98C414CD}|Petfolio.Application\\Petfolio.Application.csproj|c:\\users\\llmartins\\documents\\desenvolvimento\\estudo\\petfolio\\petfolio.application\\usecases\\pets\\deletebyid\\deletepetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F0A03-432C-4A71-BE15-70EB98C414CD}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\deletebyid\\deletepetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePetByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\DeleteById\\DeletePetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pets\\DeleteById\\DeletePetByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\DeleteById\\DeletePetByIdUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\DeleteById\\DeletePetByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:59:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\Petfolio\\Petfolio.API\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "Petfolio.API\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\Petfolio\\Petfolio.API\\Controllers\\PetController.cs",
+              "RelativeToolTip": "Petfolio.API\\Controllers\\PetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:06:17.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
